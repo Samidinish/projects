@@ -12,7 +12,7 @@ public class TestDriveWay {
 		int sizeCurrent = susan.driveWaySize;
 		System.out.println(sizeCurrent);
 		System.out.println(dave.driveWaySize);
-		
+		System.out.println("Dinish");
 		
 
 	}
