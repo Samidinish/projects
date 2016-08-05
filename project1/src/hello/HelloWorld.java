@@ -3,7 +3,7 @@ package hello;
 public class HelloWorld {
    //Main method start here
 	public static void main(String[] args) {
-		System.out.println("Hello Java ! Hello WOrld !");
+		System.out.println("Hello Java ! Hello WOrld git !");
 		int number1 = 10;
 		int number2 = 15;
 		
